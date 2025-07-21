@@ -30,8 +30,7 @@ A visually rich and responsive webpage project based on **The Amazing Spider-Man
 
 - HTML5  
 - CSS3  
-- Google Fonts *(optional)*  
-- Unicode / FontAwesome Icons *(optional)*
+- Bootstrap5
 
 ---
 
