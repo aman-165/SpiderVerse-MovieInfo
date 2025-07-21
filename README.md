@@ -36,12 +36,12 @@ A visually rich and responsive webpage project based on **The Amazing Spider-Man
 
 ## 📂 Folder Structure
 
-SpiderVerse-MovieInfo/
-├── index.html
-├── style.css
-├── images/
-│ └── spider-man.png
-├── README.md
+SpiderVerse-MovieInfo/<br>
+├── index.html<br>
+├── style.css<br>
+├── images/<br>
+│ └── spider-man.png<br>
+├── README.md<br>
 
 
 ---
