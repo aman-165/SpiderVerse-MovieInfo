@@ -21,7 +21,7 @@ A visually rich and responsive webpage project based on **The Amazing Spider-Man
 
 ## 🖼️ Project Preview
 
-![Preview Screenshot]<img width="1920" height="1233" alt="screencapture-file-D-Felix-It-system-AP106-PROJECT-02-indes-html-2025-07-07-16_43_28" src="https://github.com/user-attachments/assets/340b1636-aaaf-4699-9db2-476bfa0f845a" />
+<img width="1920" height="1233" alt="screencapture-file-D-Felix-It-system-AP106-PROJECT-02-indes-html-2025-07-07-16_43_28" src="https://github.com/user-attachments/assets/340b1636-aaaf-4699-9db2-476bfa0f845a" />
 
 
 ---
